@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ex2017122805</string>
+    <string name="button01">OK</string>
+    <string name="button02">Send</string>
+    <string name="button03">The third page</string>
+    <string name="textview01">Not enter</string>
+    <string name="textview02">Enter</string>
+</resources>

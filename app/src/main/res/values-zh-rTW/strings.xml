@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ex2017122805</string>
+    <string name="button01">確認</string>
+    <string name="button02">傳送</string>
+    <string name="textview01">未確認</string>
+    <string name="textview02">已確認</string>
+    <string name="button03">第三頁</string>
+</resources>
